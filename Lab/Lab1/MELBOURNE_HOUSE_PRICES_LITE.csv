@@ -1,0 +1,336 @@
+Suburb,Address,Rooms,Type,Price,Method,SellerG,Date,Postcode,Regionname,Propertycount,Distance,CouncilArea
+Chintin,24 Porcupine Ct,5,h,,PN,LJ,1/04/2017,3756,Northern Victoria,39,44.2,Macedon Ranges Shire Council
+Strathmore Heights,5 Avro Ct,3,h,900000.0,PI,Considine,1/04/2017,3041,Western Metropolitan,389,8.2,Moonee Valley City Council
+Caulfield East,15 Grange Rd,3,h,1400000.0,S,Gary,1/04/2017,3145,Southern Metropolitan,608,8.4,Glen Eira City Council
+Huntingdale,31 Berkeley St,3,h,1145000.0,S,Ray,1/04/2017,3166,Southern Metropolitan,768,12.3,Monash City Council
+Essendon West,32 Garnet St,3,h,1430000.0,S,Nelson,1/04/2017,3040,Western Metropolitan,588,7.5,Moonee Valley City Council
+Strathmore Heights,2/1 De Havilland Av,2,h,635500.0,S,Considine,1/07/2017,3041,Western Metropolitan,389,8.2,Moonee Valley City Council
+Essendon West,24 Clydebank Rd,4,h,,SP,Barry,1/07/2017,3040,Western Metropolitan,588,7.5,Moonee Valley City Council
+Essendon West,6 Bourke St,3,h,750000.0,VB,Brad,1/07/2017,3040,Western Metropolitan,588,7.5,Moonee Valley City Council
+Huntingdale,9/220 Huntingdale Rd,3,h,750000.0,S,Ray,1/07/2017,3166,Southern Metropolitan,768,12.3,Monash City Council
+Keilor Lodge,8 Turin Pl,4,h,640000.0,PI,Barry,1/07/2017,3038,Western Metropolitan,570,15.5,Brimbank City Council
+Essendon West,36 Emerald St,5,h,2200000.0,VB,Nelson,1/07/2017,3040,Western Metropolitan,588,7.5,Moonee Valley City Council
+Rockbank,2013 Western Hwy,2,h,340000.0,SP,YPA,1/07/2017,3335,Western Metropolitan,538,23.8,Melton City Council
+Essendon West,4/25 Hampton Rd,2,u,460000.0,VB,Nelson,1/09/2018,3040,Western Metropolitan,588,7.5,Moonee Valley City Council
+Essendon West,18A Emerald St,4,h,1450000.0,S,Frank,1/09/2018,3040,Western Metropolitan,588,7.5,Moonee Valley City Council
+Essendon West,20 Prospect St,3,h,,S,Brad,1/09/2018,3040,Western Metropolitan,588,7.5,Moonee Valley City Council
+Gardenvale,10 Lucy St,4,h,,PI,Biggin,1/09/2018,3185,Southern Metropolitan,534,7.2,Glen Eira City Council
+Burnley,9/50 Gibdon St,3,h,1213000.0,S,Biggin,10/02/2018,3121,Northern Metropolitan,438,2.4,Yarra City Council
+Kooyong,4/1 Monaro Rd,2,h,,S,Marshall,10/09/2016,3144,Southern Metropolitan,394,5.9,Stonnington City Council
+Strathmore Heights,4 Boeing Rd,4,h,1260000.0,S,Nelson,10/09/2016,3041,Western Metropolitan,389,8.2,Moonee Valley City Council
+Essendon West,57 Hampton Rd,3,h,,S,Nelson,10/09/2016,3040,Western Metropolitan,588,7.5,Moonee Valley City Council
+Keilor Lodge,10 Turin Pl,4,h,638000.0,S,Barry,10/12/2016,3038,Western Metropolitan,570,15.5,Brimbank City Council
+Caulfield East,9 Lord St,2,h,620000.0,SP,Woodards,10/12/2016,3145,Southern Metropolitan,608,8.4,Glen Eira City Council
+Huntingdale,6a Garnett St,3,t,795000.0,S,Ray,10/12/2016,3166,Southern Metropolitan,768,12.3,Monash City Council
+Essendon West,22 Emerald St,4,h,1345000.0,S,Nelson,10/12/2016,3040,Western Metropolitan,588,7.5,Moonee Valley City Council
+Burnley,12 Loyola Gr,2,h,1231010.0,SP,Jellis,10/12/2016,3121,Northern Metropolitan,438,2.4,Yarra City Council
+Silvan,70 Lewis Rd,4,h,1085000.0,SA,Max,10/12/2016,3795,Eastern Victoria,457,34.6,Yarra Ranges Shire Council
+Wattle Glen,43 Lorimer Rd,3,h,705000.0,S,Morrison,10/12/2016,3096,Northern Victoria,642,23.6,Nillumbik Shire Council
+Gardenvale,66A Gardenvale Rd,3,h,1250000.0,PI,Nick,11/02/2017,3185,Southern Metropolitan,534,7.2,Glen Eira City Council
+Keilor Lodge,7A Malibu Gr,4,h,710000.0,S,HAR,11/02/2017,3038,Western Metropolitan,570,15.5,Brimbank City Council
+Kallista,21 Sunnyslopes Rd,4,h,1080000.0,SP,Fletchers,11/08/2018,3791,Eastern Victoria,622,31.6,Yarra Ranges Shire Council
+Kooyong,8 Avenel Rd,5,h,,S,Marshall,11/08/2018,3144,Southern Metropolitan,394,5.9,Stonnington City Council
+Essendon West,467 Buckley St,2,h,1121000.0,S,Nelson,11/08/2018,3040,Western Metropolitan,588,7.5,Moonee Valley City Council
+Huntingdale,2/6 Shafton St,2,u,580000.0,PI,Ray,11/08/2018,3166,Southern Metropolitan,768,12.3,Monash City Council
+Huntingdale,1/9 Berkeley St,3,u,820000.0,S,Ray,11/08/2018,3166,Southern Metropolitan,768,12.3,Monash City Council
+Gardenvale,4/2 Lucy St,2,u,692000.0,S,Jellis,11/11/2017,3185,Southern Metropolitan,534,7.2,Glen Eira City Council
+Essendon West,13A Garnet St,4,h,,VB,Brad,11/11/2017,3040,Western Metropolitan,588,7.5,Moonee Valley City Council
+Waterways,5 Ashberg Dr,3,h,651000.0,S,Ray,11/11/2017,3195,South-Eastern Metropolitan,709,21.5,Kingston City Council
+Keilor Lodge,1 Laguna Cl,3,h,670000.0,S,Nelson,11/11/2017,3038,Western Metropolitan,570,15.5,Brimbank City Council
+Bullengarook,138 Walsh Rd,3,h,700000.0,VB,Raine,11/11/2017,3437,Northern Victoria,249,45.9,Macedon Ranges Shire Council
+Bullengarook,65 Webb Rd,4,h,1050000.0,PI,Raine,11/11/2017,3437,Northern Victoria,249,45.9,Macedon Ranges Shire Council
+Kooyong,23 Avenel Rd,4,h,2630000.0,S,Marshall,12/05/2018,3144,Southern Metropolitan,394,5.9,Stonnington City Council
+Huntingdale,6/27 Ross St,2,u,401000.0,S,Buxton,12/05/2018,3166,Southern Metropolitan,768,12.3,Monash City Council
+Strathmore Heights,28 Collier Pl,3,h,,PI,Jellis,12/05/2018,3041,Western Metropolitan,389,8.2,Moonee Valley City Council
+Strathmore Heights,3/29 Collier Ct,3,h,600000.0,S,Considine,12/05/2018,3041,Western Metropolitan,389,8.2,Moonee Valley City Council
+Keilor Lodge,32 Messina Cr,4,h,660000.0,S,Barry,12/06/2016,3038,Western Metropolitan,570,15.5,Brimbank City Council
+Huntingdale,15 Mortimer St,6,h,886500.0,S,Woodards,12/06/2016,3166,Southern Metropolitan,768,12.3,Monash City Council
+Essendon West,1/410 Buckley St,3,t,800000.0,VB,Barry,12/06/2016,3040,Western Metropolitan,588,7.5,Moonee Valley City Council
+Essendon West,6 Beryl St,3,h,,VB,Barry,12/06/2016,3040,Western Metropolitan,588,7.5,Moonee Valley City Council
+Bullengarook,31 Carrolls La,3,h,535000.0,S,Keatings,12/08/2017,3437,Northern Victoria,249,45.9,Macedon Ranges Shire Council
+Burnley,15/7 Adam St,1,u,,PI,Biggin,12/08/2017,3121,Northern Metropolitan,438,2.4,Yarra City Council
+Essendon West,3a Bourke St,3,h,,SP,Nelson,12/11/2016,3040,Western Metropolitan,588,7.5,Moonee Valley City Council
+Essendon West,461 Buckley St,3,h,787500.0,S,Nelson,12/11/2016,3040,Western Metropolitan,588,7.5,Moonee Valley City Council
+Kooyong,87 Talbot Cr,4,h,1815000.0,S,Marshall,12/11/2016,3144,Southern Metropolitan,394,5.9,Stonnington City Council
+Strathmore Heights,12 Boeing Rd,4,h,931999.0,S,Nelson,12/11/2016,3041,Western Metropolitan,389,8.2,Moonee Valley City Council
+Essendon West,2 Diamond St,3,h,1406000.0,S,Nelson,13/05/2017,3040,Western Metropolitan,588,7.5,Moonee Valley City Council
+Kalkallo,10 Malcolm St,4,h,566000.0,S,RW,13/05/2017,3064,Northern Metropolitan,121,20.6,Hume City Council
+Kooyong,26 Monaro Rd,5,h,,PI,Marshall,13/05/2017,3144,Southern Metropolitan,394,5.9,Stonnington City Council
+Huntingdale,31 Beauford St,4,h,1132000.0,S,Buxton,13/05/2017,3166,Southern Metropolitan,768,12.3,Monash City Council
+Waterways,24 Coorong Cir,4,h,1116500.0,S,Ray,13/08/2016,3195,South-Eastern Metropolitan,709,21.5,Kingston City Council
+Huntingdale,1/238 Huntingdale Rd,3,h,,SN,Ray,13/08/2016,3166,Southern Metropolitan,768,12.3,Monash City Council
+Essendon West,1A View St,3,h,,SN,Frank,13/10/2018,3040,Western Metropolitan,588,7.5,Moonee Valley City Council
+Bulla,30 Blackwells La,4,h,1431500.0,S,YPA,13/10/2018,3428,Western Metropolitan,271,22.9,Hume City Council
+Caulfield East,8/11 Tattenham St,1,u,283000.0,S,hockingstuart,14/04/2018,3145,Southern Metropolitan,608,8.4,Glen Eira City Council
+Gardenvale,485 Kooyong Rd,3,h,1650000.0,VB,hockingstuart,14/04/2018,3185,Southern Metropolitan,534,7.2,Glen Eira City Council
+Waterways,17 Tyrrell Tce,4,h,775000.0,PI,Barry,14/04/2018,3195,South-Eastern Metropolitan,709,21.5,Kingston City Council
+Oaklands Junction,13 The Ridge,4,h,940000.0,S,RE,14/04/2018,3063,Northern Metropolitan,146,24.3,Hume City Council
+Gardenvale,2/32 Gardenia Rd,2,u,393000.0,SP,Biggin,14/05/2016,3185,Southern Metropolitan,534,7.2,Glen Eira City Council
+Huntingdale,67 Ross St,2,h,,PN,Greg,14/05/2016,3166,Southern Metropolitan,768,12.3,Monash City Council
+Strathmore Heights,22 Caravelle Cr,4,h,860000.0,PI,Considine,14/05/2016,3041,Western Metropolitan,389,8.2,Moonee Valley City Council
+Bulla,95 Blackwells La,4,h,1380000.0,S,YPA,14/07/2018,3428,Western Metropolitan,271,22.9,Hume City Council
+Burnley,58 Adam St,3,h,1232000.0,S,hockingstuart,14/07/2018,3121,Northern Metropolitan,438,2.4,Yarra City Council
+Gardenvale,1/26 Begonia Rd,2,h,,SN,Chisholm,14/07/2018,3185,Southern Metropolitan,534,7.2,Glen Eira City Council
+Huntingdale,8/264 Huntingdale Rd,2,u,400000.0,S,Greg,14/10/2017,3166,Southern Metropolitan,768,12.3,Monash City Council
+Waterways,34 Dresden Dr,3,h,,S,O'Brien,14/10/2017,3195,South-Eastern Metropolitan,709,21.5,Kingston City Council
+Caulfield East,10/27 Tattenham St,2,u,,SP,hockingstuart,14/10/2017,3145,Southern Metropolitan,608,8.4,Glen Eira City Council
+Rockbank,15 Quarters St,4,h,620000.0,S,HAR,14/10/2017,3335,Western Metropolitan,538,23.8,Melton City Council
+Wildwood,430 Wildwood Rd,5,h,1030000.0,S,RE,14/10/2017,3429,Western Metropolitan,83,31.7,Hume City Council
+Avonsleigh,2 MacClesfield Rd,3,h,,PN,Eview,14/10/2017,3782,Eastern Victoria,335,36.9,Cardinia Shire Council
+Essendon West,384 Buckley St,3,h,1410000.0,PI,Jellis,15/07/2017,3040,Western Metropolitan,588,7.5,Moonee Valley City Council
+Waterways,7 Portland Pl,4,h,1265000.0,S,Ray,15/07/2017,3195,South-Eastern Metropolitan,709,21.5,Kingston City Council
+Caulfield East,13 Lord St,4,h,1550000.0,S,Ray,15/07/2017,3145,Southern Metropolitan,608,8.4,Glen Eira City Council
+Rockbank,20 Quarters St,4,h,,PN,hockingstuart,15/07/2017,3335,Western Metropolitan,538,23.8,Melton City Council
+Kooyong,6/1 Monaro Rd,2,h,1290000.0,S,hockingstuart,15/10/2016,3144,Southern Metropolitan,394,5.9,Stonnington City Council
+Waterways,26 Broadwater Dr,4,h,950000.0,PI,Ray,15/10/2016,3195,South-Eastern Metropolitan,709,21.5,Kingston City Council
+Essendon West,4/63 Hampton Rd,4,t,652500.0,S,Harcourts,15/10/2016,3040,Western Metropolitan,588,7.5,Moonee Valley City Council
+Rockbank,4 Socrates Wy,2,h,260000.0,S,Raine,15/10/2016,3335,Western Metropolitan,538,23.8,Melton City Council
+Essendon West,479a Buckley St,3,h,685000.0,S,Nelson,15/10/2016,3040,Western Metropolitan,588,7.5,Moonee Valley City Council
+Burnley,92 Madden Gr,2,h,881000.0,SP,Jellis,16/04/2016,3121,Northern Metropolitan,438,2.4,Yarra City Council
+Huntingdale,47 Greville St,3,h,936000.0,S,Hodges,16/04/2016,3166,Southern Metropolitan,768,12.3,Monash City Council
+Castella,139 Castella Rd,3,h,770000.0,S,Ray,16/06/2018,3777,Northern Victoria,96,45.2,Murrindindi Shire Council
+Huntingdale,20 Mortimer St,3,h,925000.0,S,Ray,16/06/2018,3166,Southern Metropolitan,768,12.3,Monash City Council
+Caulfield East,75 Grange Rd,5,h,1335000.0,S,Gary,16/07/2016,3145,Southern Metropolitan,608,8.4,Glen Eira City Council
+Kalorama,20 Jeeves Av,3,h,485000.0,PI,Max,16/07/2016,3766,Eastern Victoria,577,30.4,Yarra Ranges Shire Council
+Essendon West,25 Garnet St,5,h,1300000.0,S,Nelson,16/07/2016,3040,Western Metropolitan,588,7.5,Moonee Valley City Council
+Caulfield East,4/8 Derby Cr,2,h,710000.0,S,Thomson,16/09/2017,3145,Southern Metropolitan,608,8.4,Glen Eira City Council
+Caulfield East,22A Queens Av,2,h,,S,Jellis,16/09/2017,3145,Southern Metropolitan,608,8.4,Glen Eira City Council
+Keilor Lodge,3/7 Lossi Ct,2,u,520000.0,S,Barry,16/09/2017,3038,Western Metropolitan,570,15.5,Brimbank City Council
+Keilor Lodge,3 Dana Ct,4,h,,SN,Alexkarbon,16/12/2017,3038,Western Metropolitan,570,15.5,Brimbank City Council
+Wattle Glen,4 Warrington Cr,4,h,835000.0,SP,Mason,16/12/2017,3096,Northern Victoria,642,23.6,Nillumbik Shire Council
+Strathmore Heights,31 Caravelle Cr,4,h,1270000.0,S,Frank,17/02/2018,3041,Western Metropolitan,389,8.2,Moonee Valley City Council
+Burnley,2b Cherrill St,3,h,1940000.0,S,Jellis,17/02/2018,3121,Northern Metropolitan,438,2.4,Yarra City Council
+Rockbank,30 Arbourton Av,3,h,860000.0,SP,Sweeney,17/03/2018,3335,Western Metropolitan,538,23.8,Melton City Council
+Gardenvale,5/177 North Rd,1,u,,VB,hockingstuart,17/03/2018,3185,Southern Metropolitan,534,7.2,Glen Eira City Council
+Kooyong,4/459 Glenferrie Rd,2,u,1310000.0,S,Marshall,17/03/2018,3144,Southern Metropolitan,394,5.9,Stonnington City Council
+Rockbank,21 Socrates Wy,3,h,675000.0,S,hockingstuart,17/03/2018,3335,Western Metropolitan,538,23.8,Melton City Council
+Kalkallo,7 Malcolm St,3,h,615000.0,S,Barry,17/03/2018,3064,Northern Metropolitan,121,20.6,Hume City Council
+Huntingdale,50 Ross St,4,h,1145000.0,S,Ray,17/06/2017,3166,Southern Metropolitan,768,12.3,Monash City Council
+Burnley,2/50 Gibdon St,3,h,1100000.0,VB,hockingstuart,17/06/2017,3121,Northern Metropolitan,438,2.4,Yarra City Council
+Kooyong,7 Monaro Cl,3,h,,SP,Marshall,17/06/2017,3144,Southern Metropolitan,394,5.9,Stonnington City Council
+Huntingdale,23 Beauford St,3,h,1093800.0,S,Ray,17/06/2017,3166,Southern Metropolitan,768,12.3,Monash City Council
+Caulfield East,11 Leamington Cr,3,h,,S,Marshall,17/09/2016,3145,Southern Metropolitan,608,8.4,Glen Eira City Council
+Essendon West,51 Clydebank Rd,3,h,925000.0,S,Brad,17/09/2016,3040,Western Metropolitan,588,7.5,Moonee Valley City Council
+Kooyong,77 Elizabeth St,3,h,,SP,Jellis,18/03/2017,3144,Southern Metropolitan,394,5.9,Stonnington City Council
+Waterways,8 Artesian Pl,4,h,,VB,Ray,18/03/2017,3195,South-Eastern Metropolitan,709,21.5,Kingston City Council
+Gardenvale,7/32 Gardenia Rd,2,u,440000.0,S,Biggin,18/06/2016,3185,Southern Metropolitan,534,7.2,Glen Eira City Council
+Keilor Lodge,1 Tivoli Ct,3,h,575000.0,S,Ray,18/06/2016,3038,Western Metropolitan,570,15.5,Brimbank City Council
+Essendon West,2/44 Emerald St,2,u,520000.0,VB,Nelson,18/06/2016,3040,Western Metropolitan,588,7.5,Moonee Valley City Council
+Huntingdale,18 Greville St,3,h,951500.0,S,Woodards,18/06/2016,3166,Southern Metropolitan,768,12.3,Monash City Council
+Caulfield East,20 Lloyds Av,4,h,1690000.0,S,Gary,18/06/2016,3145,Southern Metropolitan,608,8.4,Glen Eira City Council
+Huntingdale,59 Garnett St,3,h,842500.0,S,Woodards,18/06/2016,3166,Southern Metropolitan,768,12.3,Monash City Council
+Caulfield East,36 Derby Cr,2,h,940000.0,VB,hockingstuart,18/06/2016,3145,Southern Metropolitan,608,8.4,Glen Eira City Council
+Huntingdale,1624 Dandenong Rd,4,h,892000.0,S,Ray,18/06/2016,3166,Southern Metropolitan,768,12.3,Monash City Council
+Strathmore Heights,347 Mascoma St,4,h,800000.0,S,Considine,18/06/2016,3041,Western Metropolitan,389,8.2,Moonee Valley City Council
+Strathmore Heights,9 Glenscott Cr,4,h,780000.0,SP,Brad,18/06/2016,3041,Western Metropolitan,389,8.2,Moonee Valley City Council
+Essendon West,4/426 Buckley St,3,t,730000.0,VB,Nelson,18/06/2016,3040,Western Metropolitan,588,7.5,Moonee Valley City Council
+Gardenvale,5/48 Magnolia Rd,1,u,290000.0,SP,hockingstuart,18/08/2018,3185,Southern Metropolitan,534,7.2,Glen Eira City Council
+Caulfield East,26 Derby Cr,4,h,,S,hockingstuart,18/11/2017,3145,Southern Metropolitan,608,8.4,Glen Eira City Council
+Bulla,133 Bulla Rd,3,h,665000.0,S,Barry,18/11/2017,3428,Western Metropolitan,271,22.9,Hume City Council
+Bullengarook,172 Fitzgerald Rd,6,h,1430000.0,S,Keatings,18/11/2017,3437,Northern Victoria,249,45.9,Macedon Ranges Shire Council
+Hopetoun Park,62 Cowans Rd,6,h,,W,RT,18/11/2017,3340,Western Victoria,242,37.5,Moorabool Shire Council
+Essendon West,29 Ruby St,4,h,1655000.0,S,Nelson,18/11/2017,3040,Western Metropolitan,588,7.5,Moonee Valley City Council
+Burnley,17/7 Adam St,2,u,556000.0,S,Jellis,18/11/2017,3121,Northern Metropolitan,438,2.4,Yarra City Council
+Essendon West,9 Clydebank Rd,4,h,,VB,Harcourts,19/05/2018,3040,Western Metropolitan,588,7.5,Moonee Valley City Council
+Strathmore Heights,410 Mascoma St,3,t,787000.0,S,Nelson,19/05/2018,3041,Western Metropolitan,389,8.2,Moonee Valley City Council
+Essendon West,39 Clydebank Rd,3,h,1200000.0,PI,Nelson,19/05/2018,3040,Western Metropolitan,588,7.5,Moonee Valley City Council
+Huntingdale,4/66 Greville St,2,u,455000.0,S,Buxton,19/08/2017,3166,Southern Metropolitan,768,12.3,Monash City Council
+Kooyong,5/687 Toorak Rd,2,u,820000.0,SP,Marshall,19/08/2017,3144,Southern Metropolitan,394,5.9,Stonnington City Council
+Strathmore Heights,7 Caravelle Cr,3,h,1000000.0,S,Considine,19/08/2017,3041,Western Metropolitan,389,8.2,Moonee Valley City Council
+Huntingdale,12 Leigh St,5,h,1356000.0,PI,Ray,19/11/2016,3166,Southern Metropolitan,768,12.3,Monash City Council
+Waterways,12 Bluegrass Cl,4,h,1200000.0,SP,Ray,19/11/2016,3195,South-Eastern Metropolitan,709,21.5,Kingston City Council
+Gardenvale,1/18 Magnolia Rd,2,u,595000.0,S,Biggin,19/11/2016,3185,Southern Metropolitan,534,7.2,Glen Eira City Council
+Huntingdale,13 Berkeley St,4,h,1345000.0,S,Ray,19/11/2016,3166,Southern Metropolitan,768,12.3,Monash City Council
+Caulfield East,29 Derby Cr,3,h,1071000.0,S,Marshall,19/11/2016,3145,Southern Metropolitan,608,8.4,Glen Eira City Council
+Essendon West,6 Sapphire St,7,h,1300000.0,PI,Nelson,19/11/2016,3040,Western Metropolitan,588,7.5,Moonee Valley City Council
+Huntingdale,63 Garnett St,3,h,865000.0,S,hockingstuart,19/11/2016,3166,Southern Metropolitan,768,12.3,Monash City Council
+Kooyong,2A Moralla Rd,3,h,,S,RT,19/11/2016,3144,Southern Metropolitan,394,5.9,Stonnington City Council
+Keilor Lodge,14 Laguna Cl,4,h,770000.0,S,Nelson,2/06/2018,3038,Western Metropolitan,570,15.5,Brimbank City Council
+Essendon West,2/45 Hoffmans Rd,3,t,,SP,Frank,2/06/2018,3040,Western Metropolitan,588,7.5,Moonee Valley City Council
+Essendon West,416 Buckley St,5,h,1500000.0,VB,McDonald,2/06/2018,3040,Western Metropolitan,588,7.5,Moonee Valley City Council
+Burnley,50 Parkville St,2,h,1307000.0,S,Biggin,2/06/2018,3121,Northern Metropolitan,438,2.4,Yarra City Council
+Caulfield East,3/14 Queens Av,2,t,910000.0,SP,Gary,20/05/2017,3145,Southern Metropolitan,608,8.4,Glen Eira City Council
+Toolern Vale,69 Hoggs Rd,4,h,,VB,Keatings,20/05/2017,3337,Northern Victoria,317,31.7,Macedon Ranges Shire Council
+Essendon West,7 Garnet St,3,h,1305000.0,S,Gunn&Co,20/05/2017,3040,Western Metropolitan,588,7.5,Moonee Valley City Council
+Huntingdale,57 Ross St,4,h,1060000.0,PI,Ray,21/04/2018,3166,Southern Metropolitan,768,12.3,Monash City Council
+Kooyong,126 Elizabeth St,4,h,2100000.0,VB,Castran,21/04/2018,3144,Southern Metropolitan,394,5.9,Stonnington City Council
+Essendon West,2/26 Ruby St,2,u,377000.0,S,YPA,21/04/2018,3040,Western Metropolitan,588,7.5,Moonee Valley City Council
+Belgrave South,16 Blumm Rd,4,h,1622500.0,S,Ray,21/04/2018,3160,Eastern Victoria,580,30.4,Yarra Ranges Shire Council
+Don Valley,1490 Don Rd,3,h,441000.0,S,Fletchers,21/07/2018,3139,Northern Victoria,228,35.2,Yarra Ranges Shire Council
+Huntingdale,4/264 Huntingdale Rd,2,u,,PN,Greg,21/07/2018,3166,Southern Metropolitan,768,12.3,Monash City Council
+Essendon West,21 Rosehill Rd,3,h,1252000.0,S,Nelson,21/10/2017,3040,Western Metropolitan,588,7.5,Moonee Valley City Council
+Gardenvale,85 Gardenvale Rd,4,h,1850000.0,VB,Marshall,21/10/2017,3185,Southern Metropolitan,534,7.2,Glen Eira City Council
+Essendon West,37 Hampton Rd,4,h,1300000.0,VB,Brad,21/10/2017,3040,Western Metropolitan,588,7.5,Moonee Valley City Council
+Essendon West,384 Buckley St,4,h,,PI,Brad,22/05/2016,3040,Western Metropolitan,588,7.5,Moonee Valley City Council
+Strathmore Heights,5 Lockheed St,4,h,950000.0,S,Nelson,22/05/2016,3041,Western Metropolitan,389,8.2,Moonee Valley City Council
+Kooyong,8 Avenel Rd,5,h,,S,Kay,22/05/2016,3144,Southern Metropolitan,394,5.9,Stonnington City Council
+Mount Dandenong,1392 Mount Dandenong,3,h,405000.0,S,Fletchers,22/05/2016,3767,Eastern Victoria,552,30.1,Yarra Ranges Shire Council
+Mount Dandenong,16 Oakley St,2,h,,SN,Fletchers,22/08/2016,3767,Eastern Victoria,552,30.1,Yarra Ranges Shire Council
+Wattle Glen,125 Silvan Rd,4,h,,PI,Barry,22/08/2016,3096,Northern Victoria,642,23.6,Nillumbik Shire Council
+Strathmore Heights,14 Elysee Ct,4,h,780000.0,VB,Brad,22/08/2016,3041,Western Metropolitan,389,8.2,Moonee Valley City Council
+Yan Yean,20 Cades Rd,3,h,,PI,Harcourts,22/08/2016,3755,Northern Victoria,122,29.3,Nillumbik Shire Council
+Essendon West,27 Ruby St,3,h,810000.0,SP,Paul,22/08/2016,3040,Western Metropolitan,588,7.5,Moonee Valley City Council
+Ferny Creek,4 Hill St,4,h,820000.0,VB,Ray,22/09/2018,3786,Eastern Victoria,604,29.5,Yarra Ranges Shire Council
+Essendon West,445 Buckley St,3,h,950000.0,VB,Barry,22/09/2018,3040,Western Metropolitan,588,7.5,Moonee Valley City Council
+Burnley,13 Crimea St,3,h,,W,Thomas,22/09/2018,3121,Northern Metropolitan,438,2.4,Yarra City Council
+Kooyong,83 Talbot Cr,3,h,1755000.0,S,Jellis,22/09/2018,3144,Southern Metropolitan,394,5.9,Stonnington City Council
+Waterways,1 Paragon Wy,4,h,785000.0,SP,RW,23/04/2016,3195,South-Eastern Metropolitan,709,21.5,Kingston City Council
+Essendon West,2/25 Emerald St,2,t,638500.0,S,Frank,23/04/2016,3040,Western Metropolitan,588,7.5,Moonee Valley City Council
+Essendon West,36 Ruby St,3,h,,W,Barry,23/04/2016,3040,Western Metropolitan,588,7.5,Moonee Valley City Council
+Burnley,38 Loyola Gr,3,h,1500000.0,S,Nelson,23/06/2018,3121,Northern Metropolitan,438,2.4,Yarra City Council
+Huntingdale,33 Beauford St,3,h,1205000.0,SA,FN,23/09/2017,3166,Southern Metropolitan,768,12.3,Monash City Council
+Keilor Lodge,3 Dana Ct,4,h,,SN,Alexkarbon,23/12/2017,3038,Western Metropolitan,570,15.5,Brimbank City Council
+Wattle Glen,4 Warrington Cr,4,h,835000.0,SP,Mason,23/12/2017,3096,Northern Victoria,642,23.6,Nillumbik Shire Council
+Kooyong,2 Sutton St,4,h,2900000.0,PI,Kay,24/02/2018,3144,Southern Metropolitan,394,5.9,Stonnington City Council
+Caulfield East,4 Moodie St,3,h,1520000.0,S,hockingstuart,24/02/2018,3145,Southern Metropolitan,608,8.4,Glen Eira City Council
+Menzies Creek,15 Church Rd,4,h,,SS,Kaye,24/02/2018,3159,Eastern Victoria,342,32.6,Cardinia Shire Council
+Essendon West,28B Emerald St,4,t,800000.0,VB,Nelson,24/02/2018,3040,Western Metropolitan,588,7.5,Moonee Valley City Council
+Essendon West,33 Emerald St,3,h,,PI,Brad,24/02/2018,3040,Western Metropolitan,588,7.5,Moonee Valley City Council
+Essendon West,24 Ruby St,4,h,1365000.0,S,Nelson,24/02/2018,3040,Western Metropolitan,588,7.5,Moonee Valley City Council
+Bullengarook,11 Dohoney Rd,4,h,865000.0,S,Raine,24/02/2018,3437,Northern Victoria,249,45.9,Macedon Ranges Shire Council
+Keilor Lodge,26 Truro Cr,3,h,653000.0,SP,YPA,24/02/2018,3038,Western Metropolitan,570,15.5,Brimbank City Council
+Gardenvale,28 Magnolia Rd,4,h,883000.0,S,McGrath,24/02/2018,3185,Southern Metropolitan,534,7.2,Glen Eira City Council
+Huntingdale,1/238 Huntingdale Rd,3,u,,SN,Ray,24/02/2018,3166,Southern Metropolitan,768,12.3,Monash City Council
+Kooyong,2/2 Monaro Rd,3,h,2000000.0,VB,Marshall,24/03/2018,3144,Southern Metropolitan,394,5.9,Stonnington City Council
+Caulfield East,11 Lord St,2,h,998000.0,S,Woodards,24/03/2018,3145,Southern Metropolitan,608,8.4,Glen Eira City Council
+Cranbourne South,165 Browns Rd,3,h,1320000.0,S,O'Brien,24/03/2018,3977,South-Eastern Metropolitan,615,34.7,Casey City Council
+Essendon West,17 Hampton Rd,3,h,1200000.0,SP,Jellis,24/03/2018,3040,Western Metropolitan,588,7.5,Moonee Valley City Council
+Caulfield East,2/3 Lord St,2,h,782000.0,S,Gary,24/03/2018,3145,Southern Metropolitan,608,8.4,Glen Eira City Council
+Essendon West,16 Emerald St,4,h,1405000.0,S,Nelson,24/03/2018,3040,Western Metropolitan,588,7.5,Moonee Valley City Council
+Huntingdale,32 Vernon St,3,h,1000000.0,PI,Buxton,24/03/2018,3166,Southern Metropolitan,768,12.3,Monash City Council
+Oaklands Junction,1180 Somerton Rd,4,h,2050000.0,SP,Brad,24/03/2018,3063,Northern Metropolitan,146,24.3,Hume City Council
+Silvan,1 Parker Rd,4,h,1070000.0,S,Ray,24/06/2017,3795,Eastern Victoria,457,34.6,Yarra Ranges Shire Council
+Kooyong,202/723 Toorak Rd,2,u,670000.0,VB,Jellis,24/06/2017,3144,Southern Metropolitan,394,5.9,Stonnington City Council
+Essendon West,10 Beryl St,3,h,1390000.0,S,Nelson,24/06/2017,3040,Western Metropolitan,588,7.5,Moonee Valley City Council
+Waterways,9 Artesian Pl,3,h,927000.0,S,Ray,24/09/2016,3195,South-Eastern Metropolitan,709,21.5,Kingston City Council
+Burnley,148 Stawell St,2,h,1202500.0,S,Jellis,24/09/2016,3121,Northern Metropolitan,438,2.4,Yarra City Council
+Huntingdale,1590 Dandenong Rd,3,h,928500.0,S,Woodards,24/09/2016,3166,Southern Metropolitan,768,12.3,Monash City Council
+Essendon West,2/45 Hoffmans Rd,3,t,970000.0,PI,Barry,24/09/2016,3040,Western Metropolitan,588,7.5,Moonee Valley City Council
+Essendon West,33b Emerald St,3,t,,VB,Barry,25/02/2017,3040,Western Metropolitan,588,7.5,Moonee Valley City Council
+Huntingdale,1580 Dandenong Rd,3,h,970000.0,VB,Barry,25/02/2017,3166,Southern Metropolitan,768,12.3,Monash City Council
+Huntingdale,43 Berkeley St,4,h,1415000.0,S,Buxton,25/02/2017,3166,Southern Metropolitan,768,12.3,Monash City Council
+Caulfield East,17 Clifton St,2,h,1000000.0,S,hockingstuart,25/02/2017,3145,Southern Metropolitan,608,8.4,Glen Eira City Council
+Kooyong,105 Elizabeth St,4,h,,SN,RT,25/02/2017,3144,Southern Metropolitan,394,5.9,Stonnington City Council
+Warneet,2 Iluka St,3,h,450000.0,SP,LJ,25/02/2017,3980,Eastern Victoria,262,55.8,Casey City Council
+Waterways,10 Macquarie Cir,4,h,1338000.0,SP,Ray,25/02/2017,3195,South-Eastern Metropolitan,709,21.5,Kingston City Council
+Panton Hill,115 Church Rd,6,h,975000.0,PI,Mason,25/02/2017,3759,Northern Victoria,386,28.4,Nillumbik Shire Council
+Waterways,29 Ashberg Dr,3,h,830000.0,S,Ray,25/02/2017,3195,South-Eastern Metropolitan,709,21.5,Kingston City Council
+Gardenvale,6/37 Lantana Rd,1,u,280000.0,PI,McGrath,25/02/2017,3185,Southern Metropolitan,534,7.2,Glen Eira City Council
+Burnley,154 Stawell St,3,h,1435000.0,S,Jellis,25/02/2017,3121,Northern Metropolitan,438,2.4,Yarra City Council
+Gardenvale,38 Magnolia Rd,3,h,,VB,hockingstuart,25/08/2018,3185,Southern Metropolitan,534,7.2,Glen Eira City Council
+Gisborne South,47 Tweddle Rd,4,h,1350000.0,SA,RT,25/11/2017,3437,Northern Victoria,290,45.9,Macedon Ranges Shire Council
+Gardenvale,4/58 Lantana Rd,1,u,337000.0,S,Gary,25/11/2017,3185,Southern Metropolitan,534,7.2,Glen Eira City Council
+Burnley,6 Crimea St,3,h,1290000.0,S,Hodges,25/11/2017,3121,Northern Metropolitan,438,2.4,Yarra City Council
+Burnley,16/6 Adam St,1,u,,PI,Biggin,26/05/2018,3121,Northern Metropolitan,438,2.4,Yarra City Council
+Essendon West,28 Garnet St,4,h,1120000.0,VB,Nelson,26/05/2018,3040,Western Metropolitan,588,7.5,Moonee Valley City Council
+Chintin,140 Toomeys La,4,h,1500000.0,PI,Keatings,26/05/2018,3756,Northern Victoria,39,44.2,Macedon Ranges Shire Council
+Gardenvale,72 Gardenvale Rd,4,h,2625000.0,PI,Jellis,26/05/2018,3185,Southern Metropolitan,534,7.2,Glen Eira City Council
+Waterways,6 Binglebay Av,5,h,1300000.0,VB,Stockdale,26/05/2018,3195,South-Eastern Metropolitan,709,21.5,Kingston City Council
+Wattle Glen,25 Upper Rd,3,h,736000.0,SP,Flannagan,26/05/2018,3096,Northern Victoria,642,23.6,Nillumbik Shire Council
+Kooyong,707 Toorak Rd,4,h,3080000.0,SP,Jellis,26/08/2017,3144,Southern Metropolitan,394,5.9,Stonnington City Council
+Caulfield East,3/5 Lord St,2,u,,SP,RT,27/05/2017,3145,Southern Metropolitan,608,8.4,Glen Eira City Council
+Silvan,16 Eleanor Dr,3,h,1085000.0,S,Harcourts,27/05/2017,3795,Eastern Victoria,457,34.6,Yarra Ranges Shire Council
+Essendon West,36 Ruby St,3,h,1050000.0,VB,Barry,27/05/2017,3040,Western Metropolitan,588,7.5,Moonee Valley City Council
+Gardenvale,171 North Rd,5,h,1880000.0,S,Biggin,27/05/2017,3185,Southern Metropolitan,534,7.2,Glen Eira City Council
+Caulfield East,8/8 Tattenham St,2,u,300000.0,VB,Thomson,27/05/2017,3145,Southern Metropolitan,608,8.4,Glen Eira City Council
+Burnley,2a Cherrill St,3,h,1837500.0,S,Jellis,27/05/2017,3121,Northern Metropolitan,438,2.4,Yarra City Council
+Yan Yean,2026 Donnybrook Rd,3,h,1415000.0,S,RW,27/06/2016,3755,Northern Victoria,122,29.3,Nillumbik Shire Council
+Kooyong,81 Talbot Cr,3,t,1706000.0,S,Abercromby's,27/11/2016,3144,Southern Metropolitan,394,5.9,Stonnington City Council
+Belgrave Heights,15 Vale Rd,5,h,671503.0,SP,O'Brien,27/11/2016,3160,Eastern Victoria,491,30.4,Yarra Ranges Shire Council
+Keilor Lodge,2 Malibu Gr,5,h,735000.0,S,Sweeney,27/11/2016,3038,Western Metropolitan,570,15.5,Brimbank City Council
+Huntingdale,41 Berkeley St,3,h,1150000.0,S,Buxton,27/11/2016,3166,Southern Metropolitan,768,12.3,Monash City Council
+Oaklands Junction,11 Peregrine Rd,4,h,,SS,RE,28/01/2016,3063,Northern Metropolitan,146,24.3,Hume City Council
+Strathmore Heights,336 Mascoma St,4,h,1040000.0,SP,Brad,28/04/2018,3041,Western Metropolitan,389,8.2,Moonee Valley City Council
+Keilor Lodge,3 Truro Cr,4,h,690000.0,PI,YPA,28/04/2018,3038,Western Metropolitan,570,15.5,Brimbank City Council
+Rockbank,4 Goldstone Gr,4,h,610000.0,SP,hockingstuart,28/04/2018,3335,Western Metropolitan,538,23.8,Melton City Council
+Kooyong,12/1 Monaro Rd,3,t,1425000.0,VB,Jellis,28/04/2018,3144,Southern Metropolitan,394,5.9,Stonnington City Council
+Strathmore Heights,353a Mascoma St,3,u,750000.0,VB,Paul,28/05/2016,3041,Western Metropolitan,389,8.2,Moonee Valley City Council
+Bulla,110 Green St,5,h,,SN,Jason,28/05/2016,3428,Western Metropolitan,271,22.9,Hume City Council
+Yarrambat,15 Kurrak Rd,5,h,,VB,Morrison,28/05/2016,3091,Northern Victoria,577,23.4,Nillumbik Shire Council
+Caulfield East,8/5 Derby Cr,2,u,555000.0,S,Ray,28/05/2016,3145,Southern Metropolitan,608,8.4,Glen Eira City Council
+Essendon West,50 Ruby St,3,h,1110000.0,S,Barry,28/05/2016,3040,Western Metropolitan,588,7.5,Moonee Valley City Council
+Caulfield East,17 Derby Cr,2,h,1250000.0,PI,hockingstuart,28/07/2018,3145,Southern Metropolitan,608,8.4,Glen Eira City Council
+Essendon West,20 View St,3,h,1220000.0,SP,Nelson,28/07/2018,3040,Western Metropolitan,588,7.5,Moonee Valley City Council
+Gardenvale,25 Magnolia Rd,4,h,2200000.0,S,hockingstuart,28/08/2016,3185,Southern Metropolitan,534,7.2,Glen Eira City Council
+Caulfield East,9/5 Derby Cr,2,u,670000.0,S,Barry,28/10/2017,3145,Southern Metropolitan,608,8.4,Glen Eira City Council
+Huntingdale,27 Garnett St,3,h,1000000.0,PI,Ray,28/10/2017,3166,Southern Metropolitan,768,12.3,Monash City Council
+Gisborne South,31 Stanton Ct,3,h,930000.0,S,Raine,28/10/2017,3437,Northern Victoria,290,45.9,Macedon Ranges Shire Council
+Oaklands Junction,14 Peregrine Rd,4,h,825000.0,S,RE,29/04/2017,3063,Northern Metropolitan,146,24.3,Hume City Council
+Huntingdale,22 Greville St,4,h,1452000.0,S,Ray,29/04/2017,3166,Southern Metropolitan,768,12.3,Monash City Council
+Huntingdale,39 Hargreaves St,3,h,990000.0,VB,Barry,29/07/2017,3166,Southern Metropolitan,768,12.3,Monash City Council
+Ferny Creek,36 Seabreeze Av,3,h,690000.0,S,FN,3/02/2018,3786,Eastern Victoria,604,29.5,Yarra Ranges Shire Council
+Essendon West,4/432 Buckley St,2,h,,PI,Barry,3/03/2018,3040,Western Metropolitan,588,7.5,Moonee Valley City Council
+Caulfield East,5/33 Grange Rd,2,u,350000.0,SP,Gary,3/06/2017,3145,Southern Metropolitan,608,8.4,Glen Eira City Council
+Wattle Glen,47 Neerim Ri,5,h,1140000.0,S,Fletchers,3/06/2017,3096,Northern Victoria,642,23.6,Nillumbik Shire Council
+Huntingdale,19 Hargreaves St,3,h,941000.0,S,Woodards,3/09/2016,3166,Southern Metropolitan,768,12.3,Monash City Council
+Kooyong,30 Monaro Rd,5,h,,S,Marshall,3/09/2016,3144,Southern Metropolitan,394,5.9,Stonnington City Council
+Huntingdale,3 Worcester St,3,h,1080000.0,S,Buxton,3/09/2017,3166,Southern Metropolitan,768,12.3,Monash City Council
+Caulfield East,14 Lloyds Av,4,t,985000.0,S,Besser,3/09/2017,3145,Southern Metropolitan,608,8.4,Glen Eira City Council
+Caulfield East,24 Clifton St,4,h,1609000.0,S,Gary,3/09/2017,3145,Southern Metropolitan,608,8.4,Glen Eira City Council
+Keilor Lodge,10 Ventura Ct,3,h,,S,Brad,3/12/2016,3038,Western Metropolitan,570,15.5,Brimbank City Council
+Essendon West,14 Clydebank Rd,3,h,810000.0,PI,Nelson,3/12/2016,3040,Western Metropolitan,588,7.5,Moonee Valley City Council
+Burnley,60 Gibdon St,2,h,1005000.0,SP,Biggin,3/12/2016,3121,Northern Metropolitan,438,2.4,Yarra City Council
+Pentland Hills,109 Palmers La,4,h,875000.0,VB,Len,3/12/2016,3341,Western Victoria,59,45.2,Moorabool Shire Council
+Cranbourne South,173 Browns Rd,3,h,555000.0,S,O'Brien,30/07/2016,3977,South-Eastern Metropolitan,615,34.7,Casey City Council
+Lysterfield South,8/330 Hallam North Rd,6,h,,PN,Hall,30/07/2016,3156,South-Eastern Metropolitan,302,24.8,Casey City Council
+Essendon West,57 Hampton Rd,3,h,820000.0,VB,Nelson,30/07/2016,3040,Western Metropolitan,588,7.5,Moonee Valley City Council
+Essendon West,53 Clydebank Rd,3,h,1115000.0,S,Barry,30/07/2016,3040,Western Metropolitan,588,7.5,Moonee Valley City Council
+Waterways,20 Shoalwater Dr,4,h,,PI,Ray,30/07/2016,3195,South-Eastern Metropolitan,709,21.5,Kingston City Council
+Keilor Lodge,3 Dana Ct,4,h,,SN,Alexkarbon,30/12/2017,3038,Western Metropolitan,570,15.5,Brimbank City Council
+Wattle Glen,4 Warrington Cr,4,h,835000.0,SP,Mason,30/12/2017,3096,Northern Victoria,642,23.6,Nillumbik Shire Council
+Keilor Lodge,15 Laguna Cl,3,h,680000.0,PI,YPA,4/02/2016,3038,Western Metropolitan,570,15.5,Brimbank City Council
+Gisborne South,28 Fielding Dr,3,h,700000.0,S,Daniel,4/02/2016,3437,Northern Victoria,290,45.9,Macedon Ranges Shire Council
+Huntingdale,2/5 Greville St,2,u,340000.0,PI,Ray,4/03/2017,3166,Southern Metropolitan,768,12.3,Monash City Council
+Oaklands Junction,24 The Ridge,5,h,810000.0,S,RE,4/03/2017,3063,Northern Metropolitan,146,24.3,Hume City Council
+Huntingdale,5 Leigh St,3,h,920000.0,S,Ray,4/06/2016,3166,Southern Metropolitan,768,12.3,Monash City Council
+Strathmore Heights,1/408 Mascoma St,3,h,530000.0,S,Nelson,4/06/2016,3041,Western Metropolitan,389,8.2,Moonee Valley City Council
+Huntingdale,35 Ross St,3,h,,S,Woodards,4/06/2016,3166,Southern Metropolitan,768,12.3,Monash City Council
+Essendon West,17 Hoffmans Rd,4,h,1422000.0,S,Nelson,4/06/2016,3040,Western Metropolitan,588,7.5,Moonee Valley City Council
+Huntingdale,1/9 Berkeley St,3,u,,PI,Ray,4/08/2018,3166,Southern Metropolitan,768,12.3,Monash City Council
+Essendon West,14 Prospect St,5,h,1840000.0,S,Nelson,4/08/2018,3040,Western Metropolitan,588,7.5,Moonee Valley City Council
+Rockbank,3 Wool St,4,h,600000.0,SP,Prof.,4/08/2018,3335,Western Metropolitan,538,23.8,Melton City Council
+Strathmore Heights,25 Lockheed St,3,h,890000.0,S,Considine,4/08/2018,3041,Western Metropolitan,389,8.2,Moonee Valley City Council
+Waterways,4 Coorong Cir,4,h,1266000.0,S,Ray,4/11/2017,3195,South-Eastern Metropolitan,709,21.5,Kingston City Council
+Yan Yean,2215 Plenty Rd,3,h,,SP,hockingstuart,5/05/2018,3755,Northern Victoria,122,29.3,Nillumbik Shire Council
+Rockbank,50 Frontier Av,4,h,815000.0,S,Prof.,5/05/2018,3335,Western Metropolitan,538,23.8,Melton City Council
+Huntingdale,1640 Dandenong Rd,3,h,765000.0,S,Ray,5/05/2018,3166,Southern Metropolitan,768,12.3,Monash City Council
+Kooyong,695 Toorak Rd,3,h,,SP,Marshall,5/05/2018,3144,Southern Metropolitan,394,5.9,Stonnington City Council
+Wattle Glen,4 Warrington Cr,4,h,835000.0,SP,Mason,6/01/2018,3096,Northern Victoria,642,23.6,Nillumbik Shire Council
+Keilor Lodge,3 Dana Ct,4,h,,SN,Alexkarbon,6/01/2018,3038,Western Metropolitan,570,15.5,Brimbank City Council
+Essendon West,22 Bourke St,3,h,,S,Nelson,6/08/2016,3040,Western Metropolitan,588,7.5,Moonee Valley City Council
+Caulfield East,5 Grange Rd,3,h,1650000.0,PI,Woodards,6/08/2016,3145,Southern Metropolitan,608,8.4,Glen Eira City Council
+Waterways,17 Barmah Pl,4,h,950000.0,S,Ray,6/08/2016,3195,South-Eastern Metropolitan,709,21.5,Kingston City Council
+Burnley,46 Gibdon St,2,h,970000.0,S,Jellis,6/10/2018,3121,Northern Metropolitan,438,2.4,Yarra City Council
+Waterways,4 Jubilee Bvd,3,h,,SS,Area,6/10/2018,3195,South-Eastern Metropolitan,709,21.5,Kingston City Council
+Panton Hill,15 Bishops Rd,4,h,651000.0,S,Barry,6/10/2018,3759,Northern Victoria,386,28.4,Nillumbik Shire Council
+Strathmore Heights,5 Douglas Ct,5,h,1360000.0,S,Considine,7/04/2018,3041,Western Metropolitan,389,8.2,Moonee Valley City Council
+Gardenvale,40 Begonia Rd,3,h,1860000.0,S,Gary,7/04/2018,3185,Southern Metropolitan,534,7.2,Glen Eira City Council
+Essendon West,10 Beryl St,3,h,1245000.0,S,Brad,7/05/2016,3040,Western Metropolitan,588,7.5,Moonee Valley City Council
+Essendon West,24a Emerald St,4,t,1120000.0,SP,Nelson,7/05/2016,3040,Western Metropolitan,588,7.5,Moonee Valley City Council
+Huntingdale,77 Greville St,2,h,,PI,Buxton,7/07/2018,3166,Southern Metropolitan,768,12.3,Monash City Council
+Huntingdale,18 Shafton St,3,h,1323000.0,S,C21,7/07/2018,3166,Southern Metropolitan,768,12.3,Monash City Council
+Huntingdale,1 Greville St,3,h,1100000.0,SP,Ray,7/10/2017,3166,Southern Metropolitan,768,12.3,Monash City Council
+Kooyong,5/414 Glenferrie Rd,2,u,,S,Jellis,7/11/2016,3144,Southern Metropolitan,394,5.9,Stonnington City Council
+Waterways,12 Dresden Dr,3,h,655000.0,S,Ray,7/11/2016,3195,South-Eastern Metropolitan,709,21.5,Kingston City Council
+Wattle Glen,4 Warrington Cr,4,h,835000.0,SP,Mason,8/01/2018,3096,Northern Victoria,642,23.6,Nillumbik Shire Council
+Keilor Lodge,3 Dana Ct,4,h,,SN,Alexkarbon,8/01/2018,3038,Western Metropolitan,570,15.5,Brimbank City Council
+Gardenvale,3 Lantana Rd,3,h,,S,Biggin,8/04/2017,3185,Southern Metropolitan,534,7.2,Glen Eira City Council
+Rockbank,4 Shearer Wy,3,h,,PI,YPA,8/04/2017,3335,Western Metropolitan,538,23.8,Melton City Council
+Waterways,16 Binglebay Av,4,h,,PI,Ray,8/04/2017,3195,South-Eastern Metropolitan,709,21.5,Kingston City Council
+Kalkallo,30 Litoria Wy,4,h,448000.0,S,Ray,8/04/2017,3064,Northern Metropolitan,121,20.6,Hume City Council
+Kooyong,6/723 Toorak Rd,2,u,,W,Rodney,8/07/2017,3144,Southern Metropolitan,394,5.9,Stonnington City Council
+Essendon West,28A Emerald St,4,h,865000.0,S,Nelson,8/09/2018,3040,Western Metropolitan,588,7.5,Moonee Valley City Council
+Warrandyte South,108 Brysons Rd,3,h,1380000.0,SP,Jellis,8/09/2018,3134,Eastern Metropolitan,216,19.9,Manningham City Council
+Gisborne South,133 Benson Rd,6,h,2225000.0,VB,RT,8/09/2018,3437,Northern Victoria,290,45.9,Macedon Ranges Shire Council
+Essendon West,12 Prospect St,2,h,1430000.0,S,Barry,8/10/2016,3040,Western Metropolitan,588,7.5,Moonee Valley City Council
+Caulfield East,10 Lloyds Av,2,h,1300000.0,SP,Gary,8/10/2016,3145,Southern Metropolitan,608,8.4,Glen Eira City Council
+Caulfield East,4 Lord St,3,h,1380000.0,S,Bayside,8/10/2016,3145,Southern Metropolitan,608,8.4,Glen Eira City Council
+Keilor Lodge,61 Truro Cr,3,h,680000.0,PI,Brad,9/09/2017,3038,Western Metropolitan,570,15.5,Brimbank City Council
+Burnley,7/6 Adam St,1,u,370000.0,SP,LITTLE,9/09/2017,3121,Northern Metropolitan,438,2.4,Yarra City Council
+Guys Hill,8 Montuna Gr,4,h,,PN,O'Brien,9/09/2017,3807,Eastern Victoria,129,39.0,Cardinia Shire Council
+Waterways,22 Broadwater Dr,4,h,1232000.0,SP,Ray,9/09/2017,3195,South-Eastern Metropolitan,709,21.5,Kingston City Council
+Essendon West,48 Clydebank Rd,3,h,950000.0,S,McDonald,9/09/2017,3040,Western Metropolitan,588,7.5,Moonee Valley City Council
+Gardenvale,4/8 Gardenia Rd,1,u,300000.0,S,hockingstuart,9/12/2017,3185,Southern Metropolitan,534,7.2,Glen Eira City Council
+Gardenvale,7/7 Gardenia Rd,1,u,,S,hockingstuart,9/12/2017,3185,Southern Metropolitan,534,7.2,Glen Eira City Council
+Strathmore Heights,19A Tasman Av,3,t,800000.0,VB,Nelson,9/12/2017,3041,Western Metropolitan,389,8.2,Moonee Valley City Council
+Essendon West,17 Diamond St,3,h,1362500.0,S,Harcourts,9/12/2017,3040,Western Metropolitan,588,7.5,Moonee Valley City Council
